@@ -1,2 +1,2 @@
-# testing
+# Testing
 For testing smart contracts
